@@ -4,6 +4,9 @@ Flavor Fusion is a decorative Streamlit AI recipe studio powered by Google's Gem
 
 The app includes animated visual design, recipe history, favorites, shopping checklists, substitution ideas, nutrition notes, plating guidance, storage advice, and Markdown export.
 
+
+**Live instance:** [Flavour Fusion by Faisal](https://flavour-fusion.streamlit.app/)
+
 ## Features
 
 - AI-generated recipes with structured ingredients, steps, timing, and tips
